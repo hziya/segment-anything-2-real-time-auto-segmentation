@@ -1,5 +1,5 @@
 # segment-anything-2 real-time
-Run Segment Anything Model 2 on a **live video stream**
+The notebooks/sam2_tracking.ipynb script performs video segmentation. It visualizes the detected segments directly in the notebook and saves the masks for each frame in the output folder. Each mask is named according to its object ID.
 
 ## News
 - 13/12/2024 : Update to sam2.1
